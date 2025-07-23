@@ -2,6 +2,13 @@
 
 Gdy są dzine błędy w przeglądarce podczas aktywacji pluginu. Aktualizuj wersję pluginu woocommerce do 10.0.4 i nadpisz php w xampp na wersję 8.3 (Pobierz php 8.3 dla windows ze strony plik zip wyłącz xampp i nadpisz w xampp/php następnie uruchom xampp).
 
+## Php
+
+```sh
+https://windows.php.net/downloads/releases/php-8.3.23-Win32-vs16-x64.zip
+https://windows.php.net/downloads/releases/php-8.4.10-Win32-vs17-x64.zip
+```
+
 ## Tutorial
 
 ```sh
